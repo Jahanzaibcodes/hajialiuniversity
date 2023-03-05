@@ -12,7 +12,7 @@
 
 body {
   background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url("/img/background2.jpg");
+    url("img/background2.jpg");
   background-attachment: fixed;
   background-size: cover;
   object-fit: contain;
@@ -372,7 +372,7 @@ h3 {
 
 .items {
   background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url("/img/rut-miit-3EMw3T-ZjkE-unsplash.jpg");
+    url("img/rut-miit-3EMw3T-ZjkE-unsplash.jpg");
   background-attachment: fixed;
   background-size: cover;
   width: 80%;
